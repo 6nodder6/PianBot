@@ -1,2 +1,2 @@
 # PianBot
-Test bot
+Test bot for a subreddit
